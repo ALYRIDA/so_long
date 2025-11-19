@@ -1,0 +1,47 @@
+/* XPM */
+static char *collectible_krabby_patty_32x32[] = {
+"32 32 9 1",
+"  c #7c4f26",      // Transparent background
+"b c #DEB887",   // Bun top (golden)
+"B c #CD853F",   // Bun bottom (toasted)
+"s c #F5DEB3",   // Sesame seeds
+"l c #32CD32",   // Lettuce (vibrant green)
+"t c #FF4500",   // Tomato (red)
+"p c #5D432C",   // Patty (brown)
+"P c #3D2B1C",   // Patty edges (darker)
+"w c #8B5A2B",   // Wood color (matches your floor)
+"d c #5D432C",   // Wood shadow
+
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"            bbbbbbbb            ",
+"          bbbbbbbbbbbb          ",
+"        bbbbbbbbbbbbbbbb        ",
+"       bbbbssssssssssbbbb       ",
+"       bbbssssssssssssbbb       ",
+"       bbbbbbbbbbbbbbbbbb       ",
+"           llllllllll           ",
+"         llllllllllllll         ",
+"       llllllllllllllllll       ",
+"       tttttttttttttttttt       ",
+"       tttttttttttttttttt       ",
+"       pppppppppppppppppp       ",
+"       ppppppPPPPPPpppppp       ",
+"       ppppppPPPPPPpppppp       ",
+"       ppppppPPPPPPpppppp       ",
+"       bbbbbbbbbbbbbbbbbb       ",
+"       bbbbbbbbbbbbbbbbbb       ",
+"       bbbbbbbbbbbbbbbbbb       ",
+"       bbbbbbbbbbbbbbbbbb       ",
+"         bbbbbbbbbbbbbb         ",
+"           bbbbbbbbbb           ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                ",
+"                                "
+};

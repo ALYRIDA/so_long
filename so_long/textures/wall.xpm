@@ -1,0 +1,50 @@
+/* XPM */
+static char * collectible_krabby_patty_32x32[] = {
+"32 32 2 1",
+"  c None",                // Transparent
+"y c #FFD700",            // Golden bun (yellow)
+"Y c #FFC000",            // Bun shadow (darker yellow)
+"b c #7c4f26",            // Patty (your brown)
+"B c #5a3a1a",            // Patty edge (darker)
+"s c #FFFFFF",            // Sesame seeds
+"l c #32CD32",            // Lettuce (vibrant green)
+"t c #FF4500",            // Tomato (red)
+"w c #8B5A2B",            // Wood wall
+"c c #FF6347",            // Coral accents
+"o c #1E90FF",            // Bubbles
+"$ c #A9A9A9",            // Metal (for Krusty Krab details)
+". c #D2B48C",           // Sand texture
+
+"          wwww          ",
+"        wwccccww        ",
+"      wwccccccccww      ",
+"    wwccccccccccccww    ",
+"    wwccoooooooccccww   ",
+"   wwcccooooooooccccww  ",
+"   wwccooooo$oooccccww  ",
+"  wwcccoooooo$ooccccww  ",
+"  wwccccoo$oooooccccww  ",
+"  wwccccoooooooccccww   ",
+"   wwccccoooooccccww    ",
+"   wwccccccccccccww     ",
+"    wwccccccccccww      ",
+"     wwyyyyyyyyww       ",
+"      wwyyyyyyww        ",
+"       wwyyyyww        ",
+"        wwyyww         ",
+"         wwww          ",
+"                        ",
+"         yyyyyy         ",
+"       yyyyyyyyyy       ",
+"      yyyyssssyyyy      ",
+"     yyyyssssssyyyy     ",
+"     YYYYllllllYYYY     ",
+"     bbbbllllllbbbb     ",
+"     bbbttttttttbbb     ",
+"     BBBttttttttBBB     ",
+"     bbbbbbbbbbbbbb     ",
+"     BBBBBBBBBBBBBB     ",
+"                        ",
+"                        ",
+"                        "
+};

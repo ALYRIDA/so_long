@@ -1,0 +1,40 @@
+/* XPM */
+static char *wood_floor_32x32[] = {
+"32 32 3 1",
+"  c None",
+"w c #5D432C",  // Dark brown wood
+"l c #8B5A2B",  // Light brown wood
+
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw",
+"wlwlwlwlwlwlwlwlwlwlwlwlwlwlwlwl",
+"lwlwlwlwlwlwlwlwlwlwlwlwlwlwlwlw"
+};

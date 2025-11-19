@@ -1,0 +1,45 @@
+/* XPM */
+static char *player_spongebob_32x32[] = {
+"32 32 9 1",
+"  c None",
+"y c #FFFF00",  // Yellow body
+"b c #0000FF",  // Blue eyes
+"w c #FFFFFF",  // White highlights
+"p c #FFA500",  // Pants
+"e c #FF0000",  // Red tie
+"r c #8B0000",  // Dark red mouth
+"n c #000000",  // Black outlines
+"s c #D2B48C",  // Shading
+"        yyyyyyyyyyyy        ",
+"      yyyyyyyyyyyyyyyy      ",
+"     yyyyyyyyyyyyyyyyyy     ",
+"    yyyyyyyyyyyyyyyyyyyy    ",
+"   yyyyyyyyyyyyyyyyyyyyyy   ",
+"  yyyyyyyyyyyyyyyyyyyyyyyy  ",
+" yyyyyyyyyyyyyyyyyyyyyyyyyy ",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"yyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+};
